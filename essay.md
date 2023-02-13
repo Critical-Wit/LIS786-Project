@@ -1,5 +1,5 @@
 ---
-title: Reflective Essah
+title: Reflective Essay
 layout: page
 permalink: /essay
 ---

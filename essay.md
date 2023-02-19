@@ -4,7 +4,7 @@ layout: page
 permalink: /essay
 img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
 img_alt: This is some alt text.
-my_variable: This is some text that stands for a variable.
+my_variable: 'BACK TO TOP' Link Here
 ---
 {% include page-image.html %}
 {% include custom-header.html %}

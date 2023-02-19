@@ -3,7 +3,7 @@ title: Evidence & Artifacts
 layout: page
 permalink: /artifacts
 img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
-my_variable: This is some text that stands for a variable.
+my_variable: 'BACK TO TOP' Link Here
 ---
 {% include page-image.html %}
 {% include custom-header.html %}
@@ -24,4 +24,4 @@ And here's an ordered (numbered) list:
 1. list item two
 1. list item three
 
-(You can use any number and the script will convert the numbers to the correct ordering.)
+{{ page.my_variable }}

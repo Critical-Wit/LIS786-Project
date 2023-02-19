@@ -3,10 +3,10 @@ title: Resume
 layout: page
 permalink: /resume
 img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
-my_variable: This is some text that stands for a variable.
+my_variable: 'BACK TO TOP' Link Here
 ---
 {% include page-image.html %}
 {% include custom-header.html %}
 {% include cv-text.html %}
 
-Here will be my Resume, or C.V. if you're fancy!
+{{ page.my_variable }}

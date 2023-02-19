@@ -11,8 +11,3 @@ defaults:
     values:
       layout: collection_item
 
-header_pages:
-  - contents.md
-  - essay.md
-  - resume.md
-  - evidence.md

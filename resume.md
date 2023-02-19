@@ -9,3 +9,4 @@ my_variable: This text represents a Back to Top link.
 {% include custom-header.html %}
 {% include cv-text.html %}
 
+{{ page.my_variable }}

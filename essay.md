@@ -6,7 +6,7 @@ img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBann
 img_alt: This is some alt text.
 my_variable: This is some text that stands for a variable.
 ---
-
+{% include custom-header.html %}
 {% include page-image.html %}
 The essay that lives here will be reflective as heck, ya'll.
 

@@ -2,7 +2,13 @@
 title: Evidence & Artifacts
 layout: page
 permalink: /artifacts
+img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
+my_variable: This is some text that stands for a variable.
 ---
+<img src="{{ page.img_url }}" alt="my alt text">
+
+{{ page.my_variable }}
+
 This will be the page from which users can access the document or file that serves as evidence that I have met each MLIS Degree Requirement. Keeping the sample text for reference.
 
 ## This is what an h2 element looks like in Markdown

@@ -11,8 +11,3 @@ defaults:
     values:
       layout: collection_item
 
-header_pages:
-  - index.html
-  - resume.md
-  - essay.md
-  - evidence.md

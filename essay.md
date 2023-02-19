@@ -11,4 +11,4 @@ my_variable: 'BACK TO TOP' Link Here
 
 {% include essay-text.html %}
 
-{{ page.my_variable }}
+{% include footer-link.html %}

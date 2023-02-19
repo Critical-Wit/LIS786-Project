@@ -9,4 +9,4 @@ my_variable: 'BACK TO TOP' Link Here
 {% include custom-header.html %}
 {% include cv-text.html %}
 
-{{ page.my_variable }}
+{% include footer-link.html %}

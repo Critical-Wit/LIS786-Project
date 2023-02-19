@@ -24,4 +24,4 @@ And here's an ordered (numbered) list:
 1. list item two
 1. list item three
 
-{{ page.my_variable }}
+{% include footer-link.html %}

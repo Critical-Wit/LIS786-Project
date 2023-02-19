@@ -7,5 +7,6 @@ my_variable: This is some text that stands for a variable.
 ---
 {% include page-image.html %}
 {% include custom-header.html %}
+{% include cv-text.html %}
 
 Here will be my Resume, or C.V. if you're fancy!

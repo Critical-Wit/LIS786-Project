@@ -1,4 +1,4 @@
-title: <h2>James Stanton - MLIS Portfolio - Dominican University</h2>
+title: James M. Stanton's MLIS Graduate Portfolio
 theme: minima
 collections:
   collection:
@@ -12,6 +12,7 @@ defaults:
       layout: collection_item
 
 header_pages:
+  - index.html
   - resume.md
   - essay.md
   - evidence.md

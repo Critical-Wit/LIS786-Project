@@ -6,6 +6,7 @@ img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBann
 img_alt: This is some alt text.
 ---
 
+{% include navigation.html %}
 {% include page-image.html %}
 
 Here is a comprehensive navigable list of all content included in this portfolio.

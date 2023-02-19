@@ -9,6 +9,6 @@ my_variable: This is some text that stands for a variable.
 {% include page-image.html %}
 {% include custom-header.html %}
 
-The essay that lives here will be reflective as heck, ya'll.
+{% include essay-text.html %}
 
 {{ page.my_variable }}

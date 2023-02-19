@@ -7,3 +7,5 @@ img_alt: This is some alt text.
 ---
 
 {% include page-image.html %}
+
+Here is a comprehensive navigable list of all content included in this portfolio.

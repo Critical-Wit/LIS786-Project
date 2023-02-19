@@ -7,3 +7,5 @@ img_alt: This is some alt text.
 ---
 
 {% include page-image.html %}
+
+{% include essay-text.html %}

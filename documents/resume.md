@@ -6,3 +6,5 @@ img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBann
 img_alt: This is some alt text.
 ---
 {% include page-image.html %}
+
+{% include cv-text.html %}

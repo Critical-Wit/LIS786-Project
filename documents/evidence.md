@@ -7,3 +7,5 @@ img_alt: This is some alt text.
 ---
 
 {% include page-image.html %}
+
+Or perhaps this will be the navigable list of all the content.

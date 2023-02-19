@@ -2,6 +2,11 @@
 title: Reflective Essay
 layout: page
 permalink: /essay
+img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
+my_variable: This is some text that stands for a variable.
 ---
 
+<img src="{{ page.img_url }}" alt="my alt text">
 The essay that lives here will be reflective as heck, ya'll.
+
+{{ page.my_variable }}

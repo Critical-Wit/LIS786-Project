@@ -4,6 +4,7 @@ layout: page
 permalink: /evidence
 img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
 img_alt: This is some alt text.
+footer_link: This will be a 'Back to Top' link.
 ---
 {% include page-image.html %}
 
@@ -31,3 +32,5 @@ img_alt: This is some alt text.
     *Outcome 5a.* Apply marketing and/or advocacy principles to demonstrate and promote the value of libraries and information agencies.
     *Outcome 5b.* Demonstrate effective professional communication to achieve common understanding as an individual or in group settings.
     *Outcome 5c.* Demonstrate leadership principles inan educational, professional, or community context.
+
+{{ page.footer_link }}

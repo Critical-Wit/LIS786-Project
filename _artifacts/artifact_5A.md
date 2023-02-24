@@ -1,11 +1,12 @@
 ---
-title: Artifact 1-A
-category: goal-1
+title: Artifact 5-A
+category: goal-5
 image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 1: Develop a professional identity and philosophy within the library and information professions.**
- Outcome 1a. Describe the evolving nature of the core values and ethics within diverse information environments.
+**Goal 5: Effectively communicate and collaborate to deliver, market, and advocate for library and information services.**
+Outcome 5a. Apply marketing and/or advocacy principles to demonstrate and promote the value of 
+libraries and information agencies.
 
 **Examples of Artifacts and Evidence for e-Portfolio**
 • Advocacy or marketing plan

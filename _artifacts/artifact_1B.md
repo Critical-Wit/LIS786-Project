@@ -1,11 +1,12 @@
 ---
-title: Artifact 1-A
+title: Artifact 1-B
 category: goal-1
 image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
 **Goal 1: Develop a professional identity and philosophy within the library and information professions.**
- Outcome 1a. Describe the evolving nature of the core values and ethics within diverse information environments.
+ Outcome 1b. Demonstrate how a philosophy, theory, model, and/or major perspective of the library and 
+ information profession guides practice in diverse settings.
 
 **Examples of Artifacts and Evidence for e-Portfolio**
 • Advocacy or marketing plan

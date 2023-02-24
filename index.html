@@ -3,14 +3,11 @@ title: Welcome
 layout: home
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    {% include page-image.html %}
-    <meta charset="utf-8">
-    <title>Welcome</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
-</html>
+<h2>List of Goal Outcome Artifacts</h2>
+{% for artifact in site.artifacts %}
+<!-- DO SOMETHING -->
+<h3>{{ artifact.title }}</h3>
+<p>img src="{{ artifact.image }}" alt="dominican university logo"/></p>
+<p>{{ artifact.content }}</p>
+<p>Category: {{ artifact.category }}</p>
+{% endfor %}

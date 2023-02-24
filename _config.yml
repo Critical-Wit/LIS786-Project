@@ -1,14 +1,14 @@
 title: James M. Stanton's MLIS Graduate Portfolio
 theme: minima
 collections:
-  collection:
+  artifacts:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "artifacts"
     values:
-      layout: collection_item
+      layout: artifact
 
 

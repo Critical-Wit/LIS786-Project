@@ -4,29 +4,10 @@ category: goal-2
 image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 2: Understand the essential nature of information and its relevance to our diverse society.**
-Outcome 2b. Explain the impact of information policies on intellectual freedom, access, literacy, 
+
+**Outcome 2b.** Explain the impact of information policies on intellectual freedom, access, literacy, 
 information behavior, and other aspects of library and information science.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 748 - Paper #1: Competencies](https://docs.google.com/document/d/1PJACraPB7kGkKDL3GfvnP2doIuDEoD2GBowDWq5QODA/edit?usp=sharing)
+
+My ability to explain the impact of information policies on intellectual freedom, access, literacy, information behavior, and other aspects of the LIS field is illustrated nicely by this paper I wrote in 2022 for LIS 748 (Collection Management). For this piece, I was tasked with describing what competencies an LIS student needs to cultivate in order to be an effective (and employable) Collection Development Librarian. These competencies (which naturally vary by organization and position) are reflective of the policies in place at any given information institution, governing every aspect of library and information science. An organization’s collection development and resource sharing policies, for example, reflect the organization’s commitment to intellectual freedom and access to information, which can have a huge impact on the literacy of the community it serves.

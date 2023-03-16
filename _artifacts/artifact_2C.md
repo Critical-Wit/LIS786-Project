@@ -4,29 +4,8 @@ category: goal-2
 image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 2: Understand the essential nature of information and its relevance to our diverse society.**
-Outcome 2c. Develop appropriate responses to assessed information needs within diverse 
-communities/organizations.
+**Outcome 2c.** Develop appropriate responses to assessed information needs within diverse communities/organizations.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 702 - Diversity & Inclusion Reflection](https://docs.google.com/document/d/1zVEr1DiLGJzUGcWXpGsBmRtWLO7N5Dv3pjQglazZPzI/edit?usp=sharing)
+
+The item that I have chosen to demonstrate my ability to form appropriate responses to assessed information needs within diverse organizations and communities is the Diversity & Inclusion Reflection written for the aptly named Facilitating User Learning and Information Needs (LIS 702). This essay explores the importance of diversity in any kind of information institution, and how it can strengthen both the organization and the people it serves. It allowed me to examine a number of tools I will be able to use to enhance my library’s ability to both assess and satisfy the information needs of our community, such as culturally-responsive, standards-based instruction (CRSBI) and Universal Design for Learning (UDL).

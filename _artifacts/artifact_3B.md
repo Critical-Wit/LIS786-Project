@@ -7,25 +7,6 @@ image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.p
 **Goal 3: Navigate, curate and create information across the spectrum of human records.**
 Outcome 3b. Utilize resources or tools to manage information.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 702 - Diversity & Inclusion Reflection](https://docs.google.com/document/d/1zVEr1DiLGJzUGcWXpGsBmRtWLO7N5Dv3pjQglazZPzI/edit?usp=sharing)
+
+Next we have a slightly earlier stop along my journey through the world of metadata, the Cataloging Portfolio site I created for LIS 730 (Cataloging & Classification), which required me to utilize resources or tools to manage information. For this project, I was tasked with creating bibliographic records for five different resources in the OCLC Connexion Browser. These consisted of a print book, a digital book, a DVD movie, an audio CD, and a LEGO set. The creation of these records required the use of Resource Description & Access (RDA), MARC coding, ISBD punctuation, and a number of “best practices” documents, depending on the nature of the object being cataloged. 

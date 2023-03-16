@@ -4,28 +4,8 @@ category: goal-4
 image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 4: Synthesize theory and practice within a dynamic, evolving, and diverse information environment.**
-Outcome 4c. Demonstrate teaching and learning principles in relation to professional practice.
+**Outcome 4c.** Demonstrate teaching and learning principles in relation to professional practice.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 702 - Diversity & Inclusion Reflection](https://docs.google.com/document/d/1zVEr1DiLGJzUGcWXpGsBmRtWLO7N5Dv3pjQglazZPzI/edit?usp=sharing)
+
+In order to demonstrate how teaching and learning principles can be incorporated into professional library practice, I have chosen a document I never expected I would be able to write: a lesson plan. Before being given this assignment in LIS 702 (Facilitating User Learning & Information Needs), I had never even seen a lesson plan, let alone attempted to create one. For these reasons, when tasked with writing a plan for a practical lesson that I would actually have to teach via a recorded presentation, I decided on a subject I was familiar with (if not famous for): how to record and edit a podcast. I created this lesson under the premise that I would be teaching an Intro to Podcasting workshop in a public library setting to a group of teens and young adults at least passingly familiar with technology. What’s more, I am now confident that I could create even more elaborate lessons going forward.

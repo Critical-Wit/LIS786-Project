@@ -4,28 +4,8 @@ category: goal-5
 image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 5: Effectively communicate and collaborate to deliver, market, and advocate for library and information services.**
-Outcome 5c. Demonstrate leadership principles in an educational, professional, or community context.
+**Outcome 5c.** Demonstrate leadership principles in an educational, professional, or community context.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 707 - Leadership Paper](https://docs.google.com/document/d/1zVEr1DiLGJzUGcWXpGsBmRtWLO7N5Dv3pjQglazZPzI/edit?usp=sharing)
+
+Finally, to demonstrate my understanding of leadership principles in an educational, professional, or community context, I have selected the Leadership Paper written for LIS 707 (Leadership, Marketing, & Strategic Communication). What this course (and this paper) taught me is that, while I have never felt like much of a leader, I have in fact learned a great deal about leadership. I have observed good leaders, and bad leaders, and I am more than able to tell the two apart. For this paper, my objective was to analyze the theories of leadership experts and current trends in information institutions and apply them to real life cases. Some of my research came from books or articles about leadership. The elements of the project that taught me the most, however, and inspired me to believe that I could lead a team or organization, were my conversations with actual leaders in the field. Specifically, I interviewed Mary Ellen Messner, First Deputy Commissioner of the Chicago Public Library, and Shelley Hughes, CPL’s Director of Children’s Services and Family Engagement.

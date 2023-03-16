@@ -4,29 +4,8 @@ category: goal-5
 image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 5: Effectively communicate and collaborate to deliver, market, and advocate for library and information services.**
-Outcome 5b. Demonstrate effective professional communication to achieve common understanding 
-as an individual or in group settings.
+**Outcome 5b.** Demonstrate effective professional communication to achieve common understanding as an individual or in group settings. 
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 702 - Diversity & Inclusion Reflection](https://docs.google.com/document/d/1zVEr1DiLGJzUGcWXpGsBmRtWLO7N5Dv3pjQglazZPzI/edit?usp=sharing)
+
+While the previous artifact effectively showcased communication with the public and stakeholders for marketing and advocacy purposes, its creation was a solo effort. In order to demonstrate effective professional communication to achieve common understanding in a collaborative group setting, however, I must return to the final cataloging project undertaken for LIS 882 (Metadata for Digital Resources). Instead of presenting the Metadata Application Profile that my team created for a second time, I have instead selected the Group Report which details the team’s impressions of participating in the collaborative project. This includes the group’s division of labor, peer feedback between members, and the ways in which we communicated in order to complete the task.

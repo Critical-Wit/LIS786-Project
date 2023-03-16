@@ -1,7 +1,7 @@
 ---
 title: Artifact 1-A
 category: goal-1
-image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
+image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-29.png
 ---
 
 **Goal 1: Develop a professional identity and philosophy within the library and information professions.**

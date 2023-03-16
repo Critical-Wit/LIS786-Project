@@ -1,7 +1,7 @@
 ---
 title: Artifact 3-C
 category: goal-3
-image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
+image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-29.png
 ---
 
 **Goal 3: Navigate, curate and create information across the spectrum of human records.**

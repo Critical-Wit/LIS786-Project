@@ -1,7 +1,7 @@
 ---
 title: Artifact 2-C
 category: goal-2
-image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
+image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-29.png
 ---
 
 **Outcome 2c.** Develop appropriate responses to assessed information needs within diverse communities/organizations.

@@ -1,7 +1,7 @@
 ---
 title: Artifact 4-A
 category: goal-4
-image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
+image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-29.png
 ---
 
 **Goal 4: Synthesize theory and practice within a dynamic, evolving, and diverse information environment.**

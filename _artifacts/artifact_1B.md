@@ -1,32 +1,12 @@
 ---
 title: Artifact 1-B
 category: goal-1
-image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 1: Develop a professional identity and philosophy within the library and information professions.**
- Outcome 1b. Demonstrate how a philosophy, theory, model, and/or major perspective of the library and 
+
+**Outcome 1b.** Demonstrate how a philosophy, theory, model, and/or major perspective of the library and 
  information profession guides practice in diverse settings.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 701 - Research Paper](https://docs.google.com/document/d/1fS1ROkLtZNl5iitXFn_1pwAK-yZj0F9W/edit)
+
+To demonstrate my understanding of how a philosophy, theory, model, or major perspective of the LIS profession guides practice in diverse settings, I have chosen to include a second paper written for LIS 701. This piece highlights the Core Value of Social Responsibility, a concept that has become an integral part of both my professional and personal identities. The selected document relates closely to the previous one, as attempts at staying “neutral” have conflicted with (and slowly given way to) the idea that, rather than hesitating to take sides regarding issues that could be seen as controversial, information professionals should in fact be advocates for social justice. In this literature review, I examine how dedication to this Core Value has led to  many positive changes in professional policy and practice, such as an increase in library diversity initiatives and even changes to many Library of Congress subject headings. My findings in this paper indicated that progress continues to be made, though still met with some resistance at the systemic level. Writing this piece also instilled in me a determination to make any library I work at a bastion for equality and social justice.

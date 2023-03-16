@@ -1,13 +1,13 @@
 ---
 title: Artifact 1-A
 category: goal-1
-image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
 **Goal 1: Develop a professional identity and philosophy within the library and information professions.**
- Outcome 1a. Describe the evolving nature of the core values and ethics within diverse information environments.
+ 
+ **Outcome 1a.** Describe the evolving nature of the core values and ethics within diverse information environments.
 
-**Artifact**
+**Artifact:** 
 [LIS 701 - Issue Paper](https://docs.google.com/document/d/1cSAjZ2asjyByRAB7ApHIt5vlmi1rZJdLprlUAM9BHgk/edit)
 
 For the artifact showing my understanding of the evolving nature of the core values and ethics of the library and information professions, I have chosen the first paper for the class which introduced me to these concepts, LIS 701 (Core Values, Ethics, and Issues of the Library and Information Professions). The paper considers the question of whether or not libraries are (or should be) neutral, a frequent debate among information professionals (and the subject of a panel discussion at 2018’s ALA Annual Conference). Examining this issue imbued me with not only an understanding of the Core Values of Librarianship, but also a fierce passion for defending them. While principle of neutrality is not one of these Core Values (instead being suggested by elements of the ALA’s Code of Ethics and Library Bill of Rights), it does have a severe impact on a librarian’s ability to adhere to several of these Values, such as Diversity and Social Responsibility. This document will show that this is an issue which I felt (and still feel) very strongly about, and has been a driving force in my MLIS journey.

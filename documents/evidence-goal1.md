@@ -6,7 +6,7 @@ img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBann
 img_alt: This is some alt text.
 footer_link: This will be a Back to Top link.
 ---
-{% include page-image.html %}
+
 
 <h2>List of Goal Outcome Artifacts</h2>
 {% for artifact in site.artifacts %}

@@ -1,32 +1,10 @@
 ---
 title: Artifact 1-C
 category: goal-1
-image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
-**Goal 1: Develop a professional identity and philosophy within the library and information professions.**
- Outcome 1c. Participate in professional activities and associations, such as professional conferences and meetings, 
- internships and practicums, and professional email discussions and social media.
+**Outcome 1c.** Participate in professional activities and associations, such as professional conferences and meetings, internships and practicums, and professional email discussions and social media.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact:** [LIS 730 - LCSH Proposal](https://docs.google.com/document/d/1WgukAoEf60j77Tig-8zB6ELaWq78tZRExAe1KlbhzLE/edit)
+
+As evidence of participation in a professional activity, I present my Final Assignment for LIS 730 (Cataloging & Classification), on which I collaborated with my classmate, Sarah Deer. For this project, Sarah and I created a proposal to have the Library of Congress replace the Subject Heading for “prostitution” with the term “full-service sex work.” Not only did this proposal entail a good deal of research, but also professional communication and collaboration with Dr. Karen Snow (our instructor) and Violet Fox, a metadata librarian and former Dewey editor with OCLC. In addition, Sarah and I (under the advisement of Dr. Snow) are, as of this writing, also working on actually submitting our proposal to the Library of Congress.

@@ -1,6 +1,7 @@
 ---
 title: Artifact 1-C
 category: goal-1
+image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
 **Outcome 1c.** Participate in professional activities and associations, such as professional conferences and meetings, internships and practicums, and professional email discussions and social media.

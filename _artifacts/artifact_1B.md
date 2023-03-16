@@ -1,6 +1,7 @@
 ---
 title: Artifact 1-B
 category: goal-1
+image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.png
 ---
 
 

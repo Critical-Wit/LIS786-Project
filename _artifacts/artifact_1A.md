@@ -7,25 +7,7 @@ image: https://www.dom.edu/themes/custom/dom/assets/images/CV_DUstacked_PMS295.p
 **Goal 1: Develop a professional identity and philosophy within the library and information professions.**
  Outcome 1a. Describe the evolving nature of the core values and ethics within diverse information environments.
 
-**Examples of Artifacts and Evidence for e-Portfolio**
-• Advocacy or marketing plan
-• Bibliography
-• Budget document
-• Cost-benefit analysis
-• Electronic presentation (e.g., web pages, blog, wiki, PowerPoint slides)
-• Exam or exam question response
-• Grant proposal
-• Instructional plan
-• Issues paper or essay
-• Journal article or professional presentation
-• Needs assessment report
-• Poster presentation
-• Product analysis and assessment
-• Program plan
-• Reference pathway
-• Reflection paper (e.g., journal)
-• Research paper or research report
-• Strategic plan
-• Subject bibliography
-• Technology project (e.g., database, digital collection, web page, network analysis)
-• Video of a presentation (e.g., instruction, storytelling, program presentation, etc.
+**Artifact**
+[LIS 701 - Issue Paper](https://docs.google.com/document/d/1cSAjZ2asjyByRAB7ApHIt5vlmi1rZJdLprlUAM9BHgk/edit)
+
+For the artifact showing my understanding of the evolving nature of the core values and ethics of the library and information professions, I have chosen the first paper for the class which introduced me to these concepts, LIS 701 (Core Values, Ethics, and Issues of the Library and Information Professions). The paper considers the question of whether or not libraries are (or should be) neutral, a frequent debate among information professionals (and the subject of a panel discussion at 2018’s ALA Annual Conference). Examining this issue imbued me with not only an understanding of the Core Values of Librarianship, but also a fierce passion for defending them. While principle of neutrality is not one of these Core Values (instead being suggested by elements of the ALA’s Code of Ethics and Library Bill of Rights), it does have a severe impact on a librarian’s ability to adhere to several of these Values, such as Diversity and Social Responsibility. This document will show that this is an issue which I felt (and still feel) very strongly about, and has been a driving force in my MLIS journey.

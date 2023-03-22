@@ -1,5 +1,6 @@
 title: James M. Stanton's MLIS Graduate Portfolio
 theme: minima
+img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
 collections:
   artifacts:
     output: true

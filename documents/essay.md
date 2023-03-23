@@ -4,7 +4,6 @@ layout: page
 permalink: /essay
 img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
 img_alt: This is some alt text.
-footer_link: Back to Top
 ---
 {% include page-image.html %}
 
@@ -46,4 +45,6 @@ The final piece of my portfolio, Artifact 5c, is the Leadership Paper written fo
 
 This SOIS Portfolio, and the three years of experience it represents, is an accomplishment that I am truly proud of, and something that will change the direction of my life for decades to come.
 
-{{ page.footer_link }}
+<form>
+ <input type="BUTTON" value="Back to top of page" onclick="window.location.href='#top'">
+</form>

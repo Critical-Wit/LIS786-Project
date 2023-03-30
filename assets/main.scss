@@ -1,8 +1,6 @@
 ---
 ---
 
-$primary: #900;
-$enable-shadows: true;
-$prefix: "mo-";
+@import "{{ site.theme }}";
 
-@import "../node_modules/bootstrap/scss/bootstrap";
+*{background-color: beige;}

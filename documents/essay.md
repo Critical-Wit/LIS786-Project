@@ -5,6 +5,8 @@ permalink: /essay
 img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
 img_alt: This is some alt text.
 ---
+p.tall {line-height:200%}
+
 {% include page-image.html %}
 
 I’ve been thinking a lot about endings and beginnings. They are opposite ends of a spectrum, two sides of a coin; total opposites, but inextricably linked. Often the end of one thing is the beginning of another, like chapters in a book. So, here I am at the beginning of an essay for a project marking the ending of my time as a Dominican University LIS graduate student, and (hopefully) the start of my professional life in the world of library science. And as I approach the end of my journey through this program, I reflect on its beginning.

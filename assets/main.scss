@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 body { background-image: url(https://nationaltoday.com/wp-content/uploads/2022/08/4568107-min-640x514.jpg.webp);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;}
-    
+    background-size: fill;}
+
 .essay { line-height: 200%; }

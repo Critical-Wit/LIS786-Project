@@ -1,6 +1,7 @@
 title: James M. Stanton
 description: (312) 631-9949
 theme: minima
+social_links:
 collections:
   artifacts:
     output: true

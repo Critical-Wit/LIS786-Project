@@ -10,6 +10,9 @@ collections:
 
 
 defaults:
+author:
+name: James Stanton
+email: "stantjm@gmail.com"
   - scope:
       type: "artifacts"
     values:

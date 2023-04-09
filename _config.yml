@@ -1,18 +1,12 @@
 title: James M. Stanton
 description: (312) 631-9949
 theme: minima
-author: 
-name: James Stanton
-email: "stantjm@gmail.com"
 collections:
   artifacts:
     output: true
 
 
 defaults:
-author:
-name: James Stanton
-email: "stantjm@gmail.com"
   - scope:
       type: "artifacts"
     values:

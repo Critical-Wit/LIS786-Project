@@ -40,6 +40,13 @@ text-align: center; }
     }
 }
 
+.image-right {
+    @media all and (min-width: 960px) {
+        width: 50%;
+        float: right;
+        padding-right: 20px;
+    }
+
 img {
     max-width: 100%;
     height: auto;

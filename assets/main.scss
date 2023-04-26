@@ -7,7 +7,7 @@
 
 .essay { line-height: 200%;
 font-family: 'Times New Roman', Times, serif; 
-font-size: 12px; }
+font-size: 14px; }
 
 footer { color: black;
 text-align: center; }
@@ -20,14 +20,14 @@ text-align: center; }
 .content-right {
     @media all and (min-width: 960px) {
         width: 66%;
-        float: left;
+        float: right;
     }
 }
 
 .image-left {
     @media all and (min-width: 960px) {
         width: 33%;
-        float: right;
+        float: left;
     }
 }
 

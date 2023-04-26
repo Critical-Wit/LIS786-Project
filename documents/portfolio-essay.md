@@ -9,8 +9,8 @@ img_alt: This is some alt text.
 
 <div class="essay" markdown="1">
 <h3 text="bold">I’ve been thinking a lot about endings and beginnings.</h3> 
-
-They are opposite ends of a spectrum, two sides of a coin; total opposites, but inextricably linked. Often the end of one thing is the beginning of another, like chapters in a book. So, here I am at the beginning of an essay for a project marking the ending of my time as a Dominican University LIS graduate student, and (hopefully) the start of my professional life in the world of library science. And as I approach the end of my journey through this program, I reflect on its beginning.
+<div class="content-right" markdown="1">
+They are opposite ends of a spectrum, two sides of a coin; total opposites, but inextricably linked. Often the end of one thing is the beginning of another, like chapters in a book. So, here I am at the beginning of an essay for a project marking the ending of my time as a Dominican University LIS graduate student, and (hopefully) the start of my professional life in the world of library science. And as I approach the end of my journey through this program, I reflect on its beginning.</div>
 <br/><br/>
 In doing so, I noticed an interesting similarity between the two; lateness. As I write this, I shall be unwisely honest in admitting that this very piece is, in fact, late. (Sorry!) But this makes sense, because my decision to start this journey in the first place was also (to me, at least) a late one. I recently “celebrated” my 40th birthday, which (taking into account the three years it’s taken me to get through the program) means that I did not decide that I wanted to get my MLIS until I was 37 years old. Perhaps I’m wrong, but I figured most people didn’t get halfway to retirement age before deciding what they want to be when they grow up (if I had to get a “real job,” at least). I had earned my undergraduate degree in theatre, and that had been fifteen years ago. What if I no longer remembered how to be a student? The idea of Graduate Level coursework was incredibly intimidating, and I had no idea what to expect, so my jaw certainly dropped when I first read the list of things I would need to be able to do in order to earn my Masters Degree: our School of Information Science Goals and Outcomes.
 <br/><br/>
@@ -49,7 +49,7 @@ The final piece of my portfolio, Artifact 5c, is the Leadership Paper written fo
 This SOIS Portfolio, and the three years of experience it represents, is an accomplishment that I am truly proud of, and something that will change the direction of my life for decades to come.
 </div>
 <div class="image-left" markdown="1">
-![Horizon Forbidden West Landscape](http://drive.google.com/uc?export=view&id=1x0gXcpXM5D3v8X1BYrEJ4zPuuOCYm500 "Aloy takes a break.")
+![Ellie chooses to believe a lie](http://drive.google.com/uc?export=view&id=1rWifXuwqEtRmAVL06hMEtOeChfenQT4J "Ellie chooses to believe a lie.")
 </div>
 
 <form>

@@ -7,9 +7,9 @@ img_alt: This is some alt text.
 ---
 {% include page-image.html %}
 
-<div class="essay">
+<div class="essay" markdown="1">
 <h3 text="bold">I’ve been thinking a lot about endings and beginnings.</h3> 
-![Aloy enjoying a nice view](assets/photos/respite.jpg "Aloy enjoying a nice view.")
+
 They are opposite ends of a spectrum, two sides of a coin; total opposites, but inextricably linked. Often the end of one thing is the beginning of another, like chapters in a book. So, here I am at the beginning of an essay for a project marking the ending of my time as a Dominican University LIS graduate student, and (hopefully) the start of my professional life in the world of library science. And as I approach the end of my journey through this program, I reflect on its beginning.
 <br/><br/>
 In doing so, I noticed an interesting similarity between the two; lateness. As I write this, I shall be unwisely honest in admitting that this very piece is, in fact, late. (Sorry!) But this makes sense, because my decision to start this journey in the first place was also (to me, at least) a late one. I recently “celebrated” my 40th birthday, which (taking into account the three years it’s taken me to get through the program) means that I did not decide that I wanted to get my MLIS until I was 37 years old. Perhaps I’m wrong, but I figured most people didn’t get halfway to retirement age before deciding what they want to be when they grow up (if I had to get a “real job,” at least). I had earned my undergraduate degree in theatre, and that had been fifteen years ago. What if I no longer remembered how to be a student? The idea of Graduate Level coursework was incredibly intimidating, and I had no idea what to expect, so my jaw certainly dropped when I first read the list of things I would need to be able to do in order to earn my Masters Degree: our School of Information Science Goals and Outcomes.
@@ -47,6 +47,9 @@ I have already demonstrated professional communication to achieve common underst
 The final piece of my portfolio, Artifact 5c, is the Leadership Paper written for LIS 707. Writing this paper gave me the opportunity to analyze the theories of leadership experts and how they can be applied to current trends in information institutions. While some of the information in this piece was gleaned from books or articles, my interviews with Chicago Public Library’s FIrst Deputy Commissioner Mary Ellen Messner and its Director of Children’s Services and Family Engagement were some of the most valuable experiences my time in this program allowed me to have. Not only did I get insight into the thought processes of actual LIS leaders, but I made professional connections that could be very beneficial as I begin seeking library employment.
 <br/><br/>
 This SOIS Portfolio, and the three years of experience it represents, is an accomplishment that I am truly proud of, and something that will change the direction of my life for decades to come.
+</div>
+<div class="image-left" markdown="1">
+![Aloy enjoying a nice view](/assets/Photos/Respite.jpg "Aloy enjoying a nice view.")
 </div>
 
 <form>

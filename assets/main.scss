@@ -6,8 +6,16 @@
 * { background-color:rgb(132, 185, 173); }
 
 .essay { line-height: 200%;
-font-family: 'Times New Roman', Times, serif; 
-font-size: 14px; }
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none; }
 
 footer { color: black;
 text-align: center; }

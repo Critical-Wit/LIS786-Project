@@ -49,7 +49,7 @@ The final piece of my portfolio, Artifact 5c, is the Leadership Paper written fo
 This SOIS Portfolio, and the three years of experience it represents, is an accomplishment that I am truly proud of, and something that will change the direction of my life for decades to come.
 </div>
 <div class="image-left" markdown="1">
-![Horizon Forbidden West Landscape](https://drive.google.com/file/d/1x0gXcpXM5D3v8X1BYrEJ4zPuuOCYm500/view?usp=sharing "Aloy takes a break.")
+![Horizon Forbidden West Landscape](http://drive.google.com/uc?export=view&id=1x0gXcpXM5D3v8X1BYrEJ4zPuuOCYm500 "Aloy takes a break.")
 </div>
 
 <form>

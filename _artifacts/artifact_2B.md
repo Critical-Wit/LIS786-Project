@@ -9,6 +9,7 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 information behavior, and other aspects of library and information science.
 
 **Artifact:** [LIS 748 - Paper #1: Competencies](https://docs.google.com/document/d/1PJACraPB7kGkKDL3GfvnP2doIuDEoD2GBowDWq5QODA/edit?usp=sharing)
+
 <div class="image-right" markdown="1">
 ![Ellie sitting in abandoned bus station](http://drive.google.com/uc?export=view&id=1spbxSQhXdIjmzMUJnw98k_6kHsxrbpY_ "Ellie despondent.")
 </div>

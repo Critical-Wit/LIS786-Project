@@ -7,6 +7,7 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 **Outcome 2c.** Develop appropriate responses to assessed information needs within diverse communities/organizations.
 
 **Artifact:** [LIS 702 - Diversity & Inclusion Reflection](https://docs.google.com/document/d/1zVEr1DiLGJzUGcWXpGsBmRtWLO7N5Dv3pjQglazZPzI/edit?usp=sharing)
+
 <div class="image-left" markdown="1">
 ![Picture of a treehouse from The Last of Us](http://drive.google.com/uc?export=view&id=1tzpjbk4O0J5Lkg4ppYvOdOpoNQGNuTmr "Treehouse from The Last of Us Part I.")
 </div>

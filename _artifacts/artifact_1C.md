@@ -7,6 +7,7 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 **Outcome 1c.** Participate in professional activities and associations, such as professional conferences and meetings, internships and practicums, and professional email discussions and social media.
 
 **Artifact:** [LIS 730 - LCSH Proposal](https://docs.google.com/document/d/1WgukAoEf60j77Tig-8zB6ELaWq78tZRExAe1KlbhzLE/edit)
+
 <div class="image-left" markdown="1">
 ![Picture of a treehouse from The Last of Us](http://drive.google.com/uc?export=view&id=1tzpjbk4O0J5Lkg4ppYvOdOpoNQGNuTmr "Treehouse from The Last of Us Part I.")
 </div>

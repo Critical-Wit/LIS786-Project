@@ -9,6 +9,7 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 **Outcome 2a.** Describe various definitions and concepts of information.
 
 **Artifact:** [LIS 882 - Metadata Discussion Post](https://docs.google.com/document/d/1Dh5eeqC4Hb1ei3OEH93dMeO86xJyX_bxGA6D5ry66cM/edit?usp=sharing)
+
 <div class="image-left" markdown="1">
 ![Ellie chooses to believe a lie](http://drive.google.com/uc?export=view&id=1rWifXuwqEtRmAVL06hMEtOeChfenQT4J "Ellie chooses to believe a lie.")
 </div>

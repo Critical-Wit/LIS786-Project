@@ -9,6 +9,7 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
  information profession guides practice in diverse settings.
 
 **Artifact:** [LIS 701 - Research Paper](https://docs.google.com/document/d/1fS1ROkLtZNl5iitXFn_1pwAK-yZj0F9W/edit)
+
 <div class="image-right" markdown="1">
 ![Ellie sitting in abandoned bus station](http://drive.google.com/uc?export=view&id=1spbxSQhXdIjmzMUJnw98k_6kHsxrbpY_ "Ellie despondent.")
 </div>

@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-* { background-color:rgb(132, 185, 173); }
+* { background-color:rgb(132, 185, 173); opacity: 75%;}
 
 .essay { line-height: 200%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -22,7 +22,7 @@
     color: #000000;}
 
 footer { color: black;
-text-align: center; }
+text-align: center; background-color: darkkhaki;}
 
 .page-heading { align-content: center; 
 text-align: center; }

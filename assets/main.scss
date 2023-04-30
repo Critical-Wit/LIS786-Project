@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-page-image { border: 25px;
+.big-image { border: 25px;
     border-color: black;
 }
 
@@ -30,7 +30,7 @@ page-image { border: 25px;
 }
 
 .page-heading { align-content: center; 
-text-align: center; 
+    text-align: center; 
 }
 
 .content-right {

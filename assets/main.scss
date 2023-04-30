@@ -15,21 +15,19 @@
     font-variant: normal;
     text-transform: none; }
 
+.site-header { font-weight: bold; 
+    background-color: lightblue;
+}
+
 * { line-height: 150%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     word-spacing: 2px;
-    color: #000000;}
-
-footer { color: black;
-text-align: center; background-color: lightblue; }
+    color: #000000;
+}
 
 .page-heading { align-content: center; 
-text-align: center; }
-
-.footer-heading { font-size: smaller; background-color:lightblue; }
-
-.contact-list {
-    color: black; background-color:lightblue; }
+text-align: center; 
+}
 
 .content-right {
     @media all and (min-width: 960px) {
@@ -59,10 +57,20 @@ img {
     }
 }
 
-
-
-
-.site-header { font-weight: bold; background-color: lightblue;
+footer { color: black;
+    text-align: center; 
+    background-color: lightblue; 
 }
 
-body { background-color:antiquewhite }
+.footer-heading { font-size: smaller; 
+    background-color:lightblue; 
+}
+
+.contact-list {
+    color: black; 
+    background-color:lightblue; 
+}
+
+body { background-color:antiquewhite;
+    background: desaturate($color: antiquewhite, $amount: 80%); 
+}

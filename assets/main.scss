@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+page-image { border: 25px;
+    border-color: black;
+}
+
 
 .essay { line-height: 200%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;

@@ -7,8 +7,9 @@
 .greeting { text-align: center;
 }
 
-#big-image { padding-top: 30px; 
+#big-image { margin-top: 30px; 
     border: 25px solid;
+    border-color:lightblue;
 }
 
 .essay { line-height: 200%;
@@ -41,7 +42,9 @@
     @media all and (min-width: 960px) {
         width: 50%;
         float: left;
-        padding-right: 20px;
+        margin: 20px;
+        border: 10px solid;
+        border-color: lightblue;
     }
 }
 
@@ -54,7 +57,9 @@ img {
     @media all and (min-width: 960px) {
         width: 50%;
         float: right;
-       padding-left: 20px;
+        margin: 20px;
+        border: 10px solid;
+        border-color: lightblue;
     }
 }
 

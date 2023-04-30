@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.big-image { border: 10px solid;
+    border-color: black;
+}
+
 .greeting { text-align: center;
 }
 
@@ -46,7 +50,7 @@ img { border: 25px solid;
     @media all and (min-width: 960px) {
         width: 50%;
         float: left;
-        border: 10px; 
+        border: 5px solid; 
         border-color: black;
         padding-right: 20px;
     }

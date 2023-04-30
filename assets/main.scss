@@ -33,17 +33,13 @@
     color: #000000;
 }
 
-.page-heading { align-content: center; 
-    text-align: center; 
-}
-
 
 .image-left {
     @media all and (min-width: 960px) {
         width: 50%;
         float: left;
         margin-right: 20px;
-        border: auto;
+        border: 5px solid;
         border-color: lightblue;
     }
 }
@@ -58,7 +54,7 @@ img {
         width: 50%;
         float: right;
         margin-left: 20px;
-        border: auto;
+        border: 5px solid;
         border-color: lightblue;
     }
 }

@@ -21,12 +21,15 @@
     color: #000000;}
 
 footer { color: black;
-text-align: center; background-color: azure; }
+text-align: center; background-color: lightblue; }
 
 .page-heading { align-content: center; 
 text-align: center; }
 
-.footer-heading { font-size: smaller; background-color: azure;}
+.footer-heading { font-size: smaller; background-color:lightblue; }
+
+.contact-list {
+    color: black; background-color:lightblue; }
 
 .content-right {
     @media all and (min-width: 960px) {
@@ -56,11 +59,10 @@ img {
     }
 }
 
-.contact-list {
-    color: black; background-color:azure; }
 
 
-.site-header { font-weight: bold; background-color: azure;
+
+.site-header { font-weight: bold; background-color: lightblue;
 }
 
 body { background-color:antiquewhite }

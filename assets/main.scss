@@ -36,7 +36,6 @@
     @media all and (min-width: 960px) {
         width: 66%;
         float: right;
-        margin: 20px;
     }
 }
 
@@ -44,8 +43,7 @@
     @media all and (min-width: 960px) {
         width: 50%;
         float: left;
-        border: 5px solid; 
-        border-color: black;
+        padding: 20px;
     }
 }
 
@@ -58,8 +56,7 @@ img {
     @media all and (min-width: 960px) {
         width: 50%;
         float: right;
-        border: 10px;
-        border-color: black;
+       padding: 20px;
     }
 }
 

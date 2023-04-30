@@ -3,7 +3,7 @@ title: Goal 1
 layout: page
 permalink: /goal1
 img_url: https://libapps.s3.amazonaws.com/accounts/13366/images/CrownLibraryBanner5.jpg
-img_alt: This is some alt text.
+img_alt: Daytime shot of the Rebecca Crown Library.
 ---
 {% include page-image.html %}
 

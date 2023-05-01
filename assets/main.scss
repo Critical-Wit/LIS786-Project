@@ -8,11 +8,16 @@
 }
 
 #big-image { margin-top: 30px; 
+    @media all and (min-width: 960px) {
+        width: 50%;
+        height: auto;
+    }
+    
     border: 25px solid;
     border-color:lightblue;
     max-width: 100%;
     height: auto;
-    
+
 }
 
 .essay { line-height: 200%;

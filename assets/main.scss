@@ -9,13 +9,15 @@
 
 #big-image { margin-top: 30px; 
     @media all and (min-width: 960px) {
-        width: 80%;
+        width: flex;
         height: auto;
+        max-width: flex;
     }
 
     border: 25px solid;
     border-color:lightblue;
-    max-width: 80%;
+    width: flex;
+    max-width: flex;
     height: auto;
 
 }

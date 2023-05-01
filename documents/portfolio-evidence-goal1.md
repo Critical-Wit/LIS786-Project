@@ -17,8 +17,8 @@ img_alt: Daytime shot of the Rebecca Crown Library.
 {% endif %}
 {% endfor %}
 
+<div class="myButton">
 <form>
-    <div class="myButton">
-        <input type="BUTTON" value="Back to top" onclick="window.location.href='#top'">
-    </div>
+    <input type="BUTTON" value="Back to top" onclick="window.location.href='#top'">
 </form>
+</div>

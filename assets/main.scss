@@ -82,7 +82,7 @@ body { background-color:antiquewhite;
 
 .myButton {
     color: rgb(255, 255, 255); 
-    font-size: 16px; 
+    font-size: 12px; 
     line-height: 16px; 
     padding: 6px; 
     border-radius: 10px; 
@@ -95,7 +95,6 @@ body { background-color:antiquewhite;
     box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
     border: 2px solid rgb(28, 110, 164); 
     display: inline-block;
-    align-content: center;
 }
     .myButton:hover {
     background: #1C6EA4; }

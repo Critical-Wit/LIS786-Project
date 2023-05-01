@@ -9,8 +9,8 @@ img_alt: This is some alt text.
 
 {% include cv-text.html %}
 
+<div class="myButton">
 <form>
-    <div class="myButton">
-        <input type="BUTTON" value="Back to top" onclick="window.location.href='#top'">
-    </div>
+    <input type="BUTTON" value="Back to top" onclick="window.location.href='#top'">
 </form>
+</div>

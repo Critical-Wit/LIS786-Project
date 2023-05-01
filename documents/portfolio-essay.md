@@ -49,8 +49,8 @@ The final piece of my portfolio, Artifact 5c, is the Leadership Paper written fo
 This SOIS Portfolio, and the three years of experience it represents, is an accomplishment that I am truly proud of, and something that will change the direction of my life for decades to come.
 </div>
 
+<div class="myButton">
 <form>
-    <div class="myButton">
-        <input type="BUTTON" value="Back to top" onclick="window.location.href='#top'">
-    </div>
+    <input type="BUTTON" value="Back to top" onclick="window.location.href='#top'">
 </form>
+</div>

@@ -8,14 +8,12 @@
 }
 
 #big-image { margin-top: 30px; 
-    @media all and (min-width: 960px) {
         width: fit-content;
         height: auto;
         max-width: fit-content;
         border: 25px solid;
         border-color:lightblue;
         align-items: center;
-    }
 }
 
 .essay { line-height: 200%;

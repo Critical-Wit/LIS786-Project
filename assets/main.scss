@@ -9,17 +9,13 @@
 
 #big-image { margin-top: 30px; 
     @media all and (min-width: 960px) {
-        width: 80%;
+        width: fit-content;
         height: auto;
-        max-width: 80%;
+        max-width: fit-content;
+        border: 25px solid;
+        border-color:lightblue;
+        align-items: center;
     }
-
-    border: 25px solid;
-    border-color:lightblue;
-    width: 80%;
-    max-width: 80%;
-    height: auto;
-
 }
 
 .essay { line-height: 200%;

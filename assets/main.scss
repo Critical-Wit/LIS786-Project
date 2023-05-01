@@ -18,7 +18,7 @@
     word-spacing: 2px;
     color: #000000;
     font-weight: normal;
-    text-decoration: none;
+    text-decoration:none;
     font-style: normal;
     font-variant: normal;
     text-transform: none; }
@@ -87,15 +87,15 @@ body { background-color:antiquewhite;
     padding: 6px; 
     border-radius: 10px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    text-decoration: none; 
+    text-decoration-color: lightblue; 
     font-style: normal; 
     font-variant: normal; 
     text-transform: none; 
-    background-color: lightblue;
+    background: lightblue;
     box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
     border: 2px solid rgb(28, 110, 164); 
     display: inline-block;
-    align-content: center;
+    align-items: center;
 }
 
 .myButton:hover {

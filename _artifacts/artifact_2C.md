@@ -14,11 +14,3 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 
 The item that I have chosen to demonstrate my ability to form appropriate responses to assessed information needs within diverse organizations and communities is the Diversity & Inclusion Reflection written for the aptly named Facilitating User Learning and Information Needs (LIS 702). This essay explores the importance of diversity in any kind of information institution, and how it can strengthen both the organization and the people it serves. It allowed me to examine a number of tools I will be able to use to enhance my library’s ability to both assess and satisfy the information needs of our community, such as culturally-responsive, standards-based instruction (CRSBI) and Universal Design for Learning (UDL).
 
-const allPTags = document.querySelectorAll("p");
-
-allPTags.forEach((elem) => {
-    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
-        elem.parentNode.insertBefore(elem.childNodes[0], elem);
-        elem.remove();
-    }
-});

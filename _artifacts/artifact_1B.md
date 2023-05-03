@@ -16,11 +16,3 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 
 To demonstrate my understanding of how a philosophy, theory, model, or major perspective of the LIS profession guides practice in diverse settings, I have chosen to include a second paper written for LIS 701. This piece highlights the Core Value of Social Responsibility, a concept that has become an integral part of both my professional and personal identities. The selected document relates closely to the previous one, as attempts at staying “neutral” have conflicted with (and slowly given way to) the idea that, rather than hesitating to take sides regarding issues that could be seen as controversial, information professionals should in fact be advocates for social justice. In this literature review, I examine how dedication to this Core Value has led to  many positive changes in professional policy and practice, such as an increase in library diversity initiatives and even changes to many Library of Congress subject headings. My findings in this paper indicated that progress continues to be made, though still met with some resistance at the systemic level. Writing this piece also instilled in me a determination to make any library I work at a bastion for equality and social justice.
 
-const allPTags = document.querySelectorAll("p");
-
-allPTags.forEach((elem) => {
-    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
-        elem.parentNode.insertBefore(elem.childNodes[0], elem);
-        elem.remove();
-    }
-});

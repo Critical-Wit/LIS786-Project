@@ -13,3 +13,12 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 </div>
 
 In order to demonstrate how teaching and learning principles can be incorporated into professional library practice, I have chosen a document I never expected I would be able to write: a lesson plan. Before being given this assignment in LIS 702 (Facilitating User Learning & Information Needs), I had never even seen a lesson plan, let alone attempted to create one. For these reasons, when tasked with writing a plan for a practical lesson that I would actually have to teach via a recorded presentation, I decided on a subject I was familiar with (if not famous for): how to record and edit a podcast. I created this lesson under the premise that I would be teaching an Intro to Podcasting workshop in a public library setting to a group of teens and young adults at least passingly familiar with technology. What’s more, I am now confident that I could create even more elaborate lessons going forward.
+
+const allPTags = document.querySelectorAll("p");
+
+allPTags.forEach((elem) => {
+    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
+        elem.parentNode.insertBefore(elem.childNodes[0], elem);
+        elem.remove();
+    }
+});

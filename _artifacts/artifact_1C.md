@@ -13,3 +13,12 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 </div>
 
 As evidence of participation in a professional activity, I present my Final Assignment for LIS 730 (Cataloging & Classification), on which I collaborated with my classmate, Sarah Deer. For this project, Sarah and I created a proposal to have the Library of Congress replace the Subject Heading for “prostitution” with the term “full-service sex work.” Not only did this proposal entail a good deal of research, but also professional communication and collaboration with Dr. Karen Snow (our instructor) and Violet Fox, a metadata librarian and former Dewey editor with OCLC. In addition, Sarah and I (under the advisement of Dr. Snow) are, as of this writing, also working on actually submitting our proposal to the Library of Congress.
+
+const allPTags = document.querySelectorAll("p");
+
+allPTags.forEach((elem) => {
+    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
+        elem.parentNode.insertBefore(elem.childNodes[0], elem);
+        elem.remove();
+    }
+});

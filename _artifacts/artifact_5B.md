@@ -13,3 +13,12 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 </div>
 
 While the previous artifact effectively showcased communication with the public and stakeholders for marketing and advocacy purposes, its creation was a solo effort. In order to demonstrate effective professional communication to achieve common understanding in a collaborative group setting, however, I must return to the final cataloging project undertaken for LIS 882 (Metadata for Digital Resources). Instead of presenting the Metadata Application Profile that my team created for a second time, I have instead selected the Group Report which details the team’s impressions of participating in the collaborative project. This includes the group’s division of labor, peer feedback between members, and the ways in which we communicated in order to complete the task.
+
+const allPTags = document.querySelectorAll("p");
+
+allPTags.forEach((elem) => {
+    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
+        elem.parentNode.insertBefore(elem.childNodes[0], elem);
+        elem.remove();
+    }
+});

@@ -23,11 +23,3 @@ img_alt: Daytime shot of the Rebecca Crown Library.
 </form>
 </div>
 
-const allPTags = document.querySelectorAll("p");
-
-allPTags.forEach((elem) => {
-    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
-        elem.parentNode.insertBefore(elem.childNodes[0], elem);
-        elem.remove();
-    }
-});

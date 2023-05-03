@@ -16,3 +16,12 @@ practice.
 </div>
 
 One of the most concrete examples of my ability to apply library and information science theories, principles, and research to professional practice can be seen in my Core Collection Final Project for LIS 748 (Collection Management). My goal for this assignment was to curate an annotated list of 12 recommended core titles with which to establish a real-world public library’s first video game collection. I found this to be an incredibly rewarding experience, as video games (and their place in the library as an immersive storytelling medium) are something I am very knowledgeable and passionate about. Before selecting these titles, I first had to research and analyze the mission of the library I chose, as well as the demographic information of the community it serves in order to guide my selection criteria. This was a project that I not only enjoyed doing, but also one that allowed me to synthesize theory and practice in a realistic, practical way.
+
+const allPTags = document.querySelectorAll("p");
+
+allPTags.forEach((elem) => {
+    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
+        elem.parentNode.insertBefore(elem.childNodes[0], elem);
+        elem.remove();
+    }
+});

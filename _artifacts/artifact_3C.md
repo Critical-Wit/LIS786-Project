@@ -13,3 +13,12 @@ image: https://www.nyemmys.org/media/files/files/11db8896/decorative-line-break-
 </div>
 
 Here I present an artifact from my very first semester at Dominican University, where one of the first skills I acquired was the ability to navigate and subsequently evaluate resources or tools that manage and facilitate access to information. This is an early assignment from LIS 702 (Facilitating User Learning and Information Needs) that presented me with the opportunity to learn more about the history of the university by establishing keyword searches in three different types of information retrieval (IR) systems: Dominican’s own Rebecca Crown Library OPAC, EBSCOHost, and the ever ubiquitous Google. This led to the development of variable search strategies tailored to each system and a critical evaluation of each IR’s depth and ability to retrieve relevant resources.
+
+const allPTags = document.querySelectorAll("p");
+
+allPTags.forEach((elem) => {
+    if (elem.innerText === "" && elem.childNodes.length === 1 && elem.childNodes[0].tagName === "IMG") {
+        elem.parentNode.insertBefore(elem.childNodes[0], elem);
+        elem.remove();
+    }
+});
